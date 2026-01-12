@@ -90,7 +90,7 @@ The Wildlife Photography Workflow can be successfully migrated from Azure PaaS s
 ⚠️ **Application Insights** → Prometheus/Jaeger (different instrumentation)
 
 ### Complex Migrations (High Complexity)
-🔴 **Cosmos DB** → PostgreSQL/MongoDB (data model changes)
+🔴 **Cosmos DB** → PostgreSQL/MongoDB (data model changes, requires careful schema redesign and data migration planning, potential application code changes for query patterns)
 🔴 **Event Grid** → Knative Eventing (event model differences)
 🔴 **Custom Azure integrations** → Requires custom operators/controllers
 

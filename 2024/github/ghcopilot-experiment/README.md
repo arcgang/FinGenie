@@ -265,9 +265,9 @@ The Wildlife Photography Workflow is designed to:
 ## 📚 Additional Resources
 
 ### Azure Documentation
-- [Azure Red Hat OpenShift](https://docs.microsoft.com/azure/openshift/)
-- [Azure Blob Storage](https://docs.microsoft.com/azure/storage/blobs/)
-- [Azure Database for PostgreSQL](https://docs.microsoft.com/azure/postgresql/)
+- [Azure Red Hat OpenShift](https://learn.microsoft.com/azure/openshift/)
+- [Azure Blob Storage](https://learn.microsoft.com/azure/storage/blobs/)
+- [Azure Database for PostgreSQL](https://learn.microsoft.com/azure/postgresql/)
 
 ### OpenShift Documentation
 - [Red Hat OpenShift Documentation](https://docs.openshift.com/)
